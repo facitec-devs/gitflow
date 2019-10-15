@@ -2,4 +2,4 @@
 
 ## Team
 	- Oscar Duarte (@leodufer)
- -Cinthia Cristy (@cinthiacristy27)
+	 -Cinthia Cristy (@cinthiacristy27)
