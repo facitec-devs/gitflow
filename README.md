@@ -2,3 +2,5 @@
 
 ## Team
 	- Oscar Duarte (@leodufer)
+	- Elisana Tavares Favero (@ElisanaFavero)
+	
