@@ -1,4 +1,5 @@
-## Welcome to git blow
+## Welcome to Git Flow
 
 ## Team
 	- Oscar Duarte (@leodufer)
+	- Luis Enrique Arias (@LuisEnriqueArias)
