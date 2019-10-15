@@ -2,3 +2,4 @@
 
 ## Team
 	- Oscar Duarte (@leodufer)
+	- Andres Ramiro Garcia Arndt (@Andrez27)
