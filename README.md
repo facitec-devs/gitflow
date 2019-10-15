@@ -1,4 +1,4 @@
 ## Welcome to git blow
 
 ## Team
-	- Oscar Duarte (@leodufer)
+	- Oscar Leonardo Duarte Fernandez (@leodufer)
