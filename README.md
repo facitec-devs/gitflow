@@ -2,5 +2,5 @@
 
 ## Team
 	- Oscar Duarte (@leodufer)
-       - Guillermo Escobar (@Guille-Escobar)
+     - Guillermo Escobar (@Guille-Escobar)
 
