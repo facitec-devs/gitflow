@@ -2,7 +2,7 @@
 
 ## Team
 	- Oscar Leonardo Duarte Fernandez (@leodufer)
-	- Rosalino Cabral(rosak23)
+	- Rosalino Cabral(@rosak23)
 	- Luis Enrique Arias (@LuisEnriqueArias)
   - Guillermo Escobar (@Guille-Escobar)
 	 -Cinthia Cristy (@cinthiacristy27)
